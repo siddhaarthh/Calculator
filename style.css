@@ -126,7 +126,7 @@
     color: white;
 }
 
-#equal
+#add
 {
     padding: 35px;
     position: relative; bottom: 450px; right: -100px;
@@ -257,7 +257,7 @@
     color: white;
 }
 
-#add
+#equal
 {
     padding: 35px 100px;
     border-radius: 20px;
